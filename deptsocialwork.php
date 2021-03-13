@@ -5,18 +5,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Physics Department</title>
+    <title>Social work Department</title>
 </head>
 <nav class="navbar navbar-expand-lg navbar-light" style="background: rgb(103, 152, 226);" > 
     <div class="container-fluid">
-  <a class="navbar-brand" href="index.html" style="font-size:larger; font-family:sans-serif;">Home</a>
+  <a class="navbar-brand" href="index.php" style="font-size:larger; font-family:sans-serif;">Home</a>
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
  <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
       <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="aboutus.html" style="font-size:larger; font-family:sans-serif;">About Us</a>
+        <a class="nav-link active" aria-current="page" href="aboutus.php" style="font-size:larger; font-family:sans-serif;">About Us</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#" style="font-size:larger; font-family:sans-serif;"></a>
@@ -33,23 +33,23 @@
         </ul>
       </li>
       <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="department.html" style="font-size:larger; font-family:sans-serif;">Department</a>
+        <a class="nav-link active" aria-current="page" href="department.php" style="font-size:larger; font-family:sans-serif;">Department</a>
       </li>
     </li>
     <li class="nav-item">
-      <a class="nav-link active" aria-current="page" href="gallery.html" style="font-size:larger; font-family:sans-serif;">Gallery</a>
+      <a class="nav-link active" aria-current="page" href="gallery.php" style="font-size:larger; font-family:sans-serif;">Gallery</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="contact.html" style="font-size:larger; font-family:sans-serif;">Contact</a>
+        <a class="nav-link active" aria-current="page" href="contact.php" style="font-size:larger; font-family:sans-serif;">Contact</a>
       </li>
     </ul>
     <form class="d-flex">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-                <a class="nav-link active" href="signup.html">SIGN UP</a>
+                <a class="nav-link active" href="signup.php">SIGN UP</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link active" href="signin.html">SIGN IN</a>
+                <a class="nav-link active" href="signin.php">SIGN IN</a>
             </li>
         </ul>
     </form>
@@ -76,11 +76,11 @@
         </div>
                     <div class="col col-12 col-sm-6 col-md-8 col-lg-8 col-xl-8 col-xxl-8">
                          <table class="table">
-                            <H5>DEPARTMENT OF PHYSICS </H5>  
-                        <p>
-                            The Department was established in the year 1925 with the commencement of the science groups in the Intermediate course. The Department was started under the leadership of Prof D Gopalan, student of Sir C V Raman, and through these years the Department of Physics has earned the reputation as a premier destination. Affiliation for B Sc was granted in 1945. The affiliation for M Sc with specialization in Electronics was granted in the year 1961. M Sc Physics (Non-conventional Energy) was introduced in the year 1998. The Department started M Phil course in Physics in the year 2012. The department is a DST-FIST sponsored department since 2005.
-                        </p>
-                        </table>
+                            <H5>DEPARTMENT OF Social work </H5>   
+                            <p>
+                                Social work is an academic discipline and practice-based profession that concerns itself with individuals, families, groups, communities and society as a whole in an effort to meet basic needs and enhance social functioning, self-determination, collective responsibility, and overall well-being.[1][2] Social functioning is defined as the ability of an individual to perform their social roles within their own self, their immediate social environment, and the society at large.[3] Social work applies social sciences, such as sociology, psychology, political science, public health, community development, law, and economics, to engage with client systems, conduct assessments, and develop interventions to solve social problems, personal problems, and bring about social change. Social work practice is often divided into micro-work, which involves working directly with individuals or small groups; and macro-work, which involves working with communities, and fostering change on a larger scale through social policy
+                            </p>                  
+                       </table>
                     </div>
             
     </div>

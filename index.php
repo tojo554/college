@@ -9,14 +9,14 @@
 </head>
 <nav class="navbar navbar-expand-lg navbar-light" style="background: #6798e2;" > 
         <div class="container-fluid">
-      <a class="navbar-brand" href="index.html" style="font-size:larger; font-family:sans-serif;">Home</a>
+      <a class="navbar-brand" href="index.php" style="font-size:larger; font-family:sans-serif;">Home</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
      <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="aboutus.html" style="font-size:larger; font-family:sans-serif;">About Us</a>
+            <a class="nav-link active" aria-current="page" href="aboutus.php" style="font-size:larger; font-family:sans-serif;">About Us</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#" style="font-size:larger; font-family:sans-serif;"></a>
@@ -33,23 +33,23 @@
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="department.html" style="font-size:larger; font-family:sans-serif;">Department</a>
+            <a class="nav-link active" aria-current="page" href="department.php" style="font-size:larger; font-family:sans-serif;">Department</a>
           </li>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="gallery.html" style="font-size:larger; font-family:sans-serif;">Gallery</a>
+          <a class="nav-link active" aria-current="page" href="gallery.php" style="font-size:larger; font-family:sans-serif;">Gallery</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="contact.html" style="font-size:larger; font-family:sans-serif;">Contact</a>
+            <a class="nav-link active" aria-current="page" href="contact.php" style="font-size:larger; font-family:sans-serif;">Contact</a>
           </li>
         </ul>
         <form class="d-flex">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" style="font-size:larger; font-family:sans-serif;" href="signup.html">SIGN UP</a>
+                    <a class="nav-link active" style="font-size:larger; font-family:sans-serif;" href="signup.php">SIGN UP</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" style="font-size:larger; font-family:sans-serif;" href="signin.html">SIGN IN</a>
+                    <a class="nav-link active" style="font-size:larger; font-family:sans-serif;" href="signin.php">SIGN IN</a>
                 </li>
             </ul>
         </form>
@@ -154,11 +154,11 @@ The College is recognized under section 2 (f) and section 12B of the UGC Act 195
                         <br>
                         <h6 style="font-family:Verdana, Geneva, Tahoma, sans-serif ;color:rgb(9, 83, 19);">  ACADEMICS</h6>
                         <table class="table table-borderless">
-                            <tr><td><a class="navbar-brand" href="depComputer.html">Department of Computer Science</a></td></tr>  
-                            <tr><td><a class="navbar-brand" href="deptsocialwork.html">Department Of Social Work</a></td></tr>
-                            <tr><td><a class="navbar-brand" href="deptBiology.html">Department Of Biplogy</a></td></tr>
-                            <tr><td><a class="navbar-brand" href="deptphysics.html">Department Of Physics</a></td></tr>
-                            <tr><td><a class="navbar-brand" href="deptcommerce.html">Department Of Commerce</a></td></tr>
+                            <tr><td><a class="navbar-brand" href="depComputer.php">Department of Computer Science</a></td></tr>  
+                            <tr><td><a class="navbar-brand" href="deptsocialwork.php">Department Of Social Work</a></td></tr>
+                            <tr><td><a class="navbar-brand" href="deptBiology.php">Department Of Biplogy</a></td></tr>
+                            <tr><td><a class="navbar-brand" href="deptphysics.php">Department Of Physics</a></td></tr>
+                            <tr><td><a class="navbar-brand" href="deptcommerce.php">Department Of Commerce</a></td></tr>
                         </table>
                     </div>
                     <div class="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
@@ -166,10 +166,10 @@ The College is recognized under section 2 (f) and section 12B of the UGC Act 195
                         <br>
                         <h6 style="font-family:Verdana, Geneva, Tahoma, sans-serif;color:rgb(9, 83, 19);">USEFUL LINKS</h6>
                         <table class="table table-borderless">
-                            <tr><td><a class="navbar-brand" href="index.html">Home</a></td></tr>  
-                            <tr><td><a class="navbar-brand" href="gallery.html">Gallery</a></td></tr>
-                            <tr><td><a class="navbar-brand" href="contact.html">Contact</a></td></tr>
-                            <tr><td><a class="navbar-brand" href="aboutus.html">About Us</a></td></tr>
+                            <tr><td><a class="navbar-brand" href="index.php">Home</a></td></tr>  
+                            <tr><td><a class="navbar-brand" href="gallery.php">Gallery</a></td></tr>
+                            <tr><td><a class="navbar-brand" href="contact.php">Contact</a></td></tr>
+                            <tr><td><a class="navbar-brand" href="aboutus.php">About Us</a></td></tr>
                         </table>
                     </div>
                 </div>

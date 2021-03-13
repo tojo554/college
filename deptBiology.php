@@ -5,18 +5,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Computer Science</title>
+    <title>Biology Department</title>
 </head>
 <nav class="navbar navbar-expand-lg navbar-light" style="background: rgb(103, 152, 226);" > 
     <div class="container-fluid">
-  <a class="navbar-brand" href="index.html" style="font-size:larger; font-family:sans-serif;">Home</a>
+  <a class="navbar-brand" href="index.php" style="font-size:larger; font-family:sans-serif;">Home</a>
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
  <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
       <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="aboutus.html" style="font-size:larger; font-family:sans-serif;">About Us</a>
+        <a class="nav-link active" aria-current="page" href="aboutus.php" style="font-size:larger; font-family:sans-serif;">About Us</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#" style="font-size:larger; font-family:sans-serif;"></a>
@@ -33,23 +33,23 @@
         </ul>
       </li>
       <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="department.html" style="font-size:larger; font-family:sans-serif;">Department</a>
+        <a class="nav-link active" aria-current="page" href="department.php" style="font-size:larger; font-family:sans-serif;">Department</a>
       </li>
     </li>
     <li class="nav-item">
-      <a class="nav-link active" aria-current="page" href="gallery.html" style="font-size:larger; font-family:sans-serif;">Gallery</a>
+      <a class="nav-link active" aria-current="page" href="gallery.php" style="font-size:larger; font-family:sans-serif;">Gallery</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link active" aria-current="page" href="contact.html" style="font-size:larger; font-family:sans-serif;">Contact</a>
+        <a class="nav-link active" aria-current="page" href="contact.php" style="font-size:larger; font-family:sans-serif;">Contact</a>
       </li>
     </ul>
     <form class="d-flex">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
-                <a class="nav-link active" href="signup.html">SIGN UP</a>
+                <a class="nav-link active" href="signup.php">SIGN UP</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link active" href="signin.html">SIGN IN</a>
+                <a class="nav-link active" href="signin.php">SIGN IN</a>
             </li>
         </ul>
     </form>
@@ -76,11 +76,11 @@
         </div>
                     <div class="col col-12 col-sm-6 col-md-8 col-lg-8 col-xl-8 col-xxl-8">
                          <table class="table">
-                            <H5>DEPARTMENT OF COMPUTER SCIENCE</H5>   
-                        <p>
-                            Department of Computer Science - department profile
-The Department of Computer Science at St Berchmans College is a unique hub in the field of advanced learning. The Department starts functioning in 1992. It offers undergraduate and postgraduate courses in Computer Science. The Department moulds young outstanding professionals who are academically strong and competent enough to achieve their dreams. Special orientation is provided to the staff periodically for updating the latest technological changes.
-                        </p>     
+                            <H5>DEPARTMENT OF BIOLOGY </H5>   
+                           <p>
+                            The Department of Botany was established in 1927 under Madras University. Over the years it has become a full fledged department with graduate and post graduate courses in Botany and a research centre affiliated to Mahatma Gandhi University, Kottayam. The Department is presently recognized by the Department of Science and Technology, Govt. of India under the FIST program. The Department has identified various thrust areas of research viz. Plant systematics, Pharmacognosy, Phytochemistry, Seed Physiology, Environmental Sciences, Plant Biotechnology and Genetic Engineering. Steps are under way to start a fully-fledged laboratory in phytochemistry to give impetus to the medicinal plant research. 
+                            As the glorious years roll in to the history of the department, it has developed by leaps and bounds contributing significantly to the development of the college and the society.
+                           </p>     
                         </table>
                     </div>
             
